@@ -1,4 +1,4 @@
-# Prestige Cosmic Venture — Sovereign Transmission Master Pack
+# Prestige Cosmic Venture — Sovereign Bio-Solar Engine Transmission Master Pack
 
 ## 🏛 Hierarchy of Chambers
 
