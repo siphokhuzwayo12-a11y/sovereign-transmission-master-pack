@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)file:///C:/Users/ASUS/Downloads/gemini-code-1785465814178.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEP-IMP-ENG-2026 | Swine Nursery Layout Verification</title>
+    <style>
+        :root {
+            --bg-dark: #070c14;
+            --card-bg: #0f172a;
+            --accent-gold: #d4af37;
+            --accent-teal: #14b8a6;
+            --accent-green: #10b981;
+            --accent-orange: #f97316;
+            --text-light: #f8fafc;
+            --text-muted: #64748b;
+            --border-color: rgba(212, 175, 55, 0.3);
+        }
+
+        body {
+            font-family: 'Consolas', 'Segoe UI', monospace;
+            background-color: var(--bg-dark);
+            color: var(--text-light);
+            margin: 0;
+            padding: 24px;
+        }
+
+        .frame {
+            border: 2px solid var(--accent-gold);
+            background-color: var(--card-bg);
+            padding: 24px;
+            border-radius: 6px;
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.8);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid var(--accent-gold);
+            padding-bottom: 12px;
+            margin-bottom: 24px;
+        }
+
+        .title {
+            color: var(--accent-gold);
+            font-size: 1.5rem;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        .subtitle {
+            color: var(--accent-teal);
+            font-size: 0.95rem;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+
+        .spec-box {
+            background-color: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 16px;
+        }
+
+        .spec-title {
+            color: var(--accent-teal);
+            font-size: 1.1rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            border-bottom: 1px solid rgba(20, 184, 166, 0.2);
+            padding-bottom: 6px;
+        }
+
+        .metric-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 0.9rem;
+        }
+
+        .metric-label { color: var(--text-muted); }
+        .metric-val { color: var(--text-light); font-weight: bold; }
+        .pass-tag { color: var(--accent-green); font-weight: bold; }
+
+        svg {
+            width: 100%;
+            height: auto;
+            border: 1px solid var(--border-color);
+            background: #020617;
+            margin-top: 10px;
+        }
+
+        .table-verif {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 0.85rem;
+        }
+
+        .table-verif th, .table-verif td {
+            border: 1px solid var(--border-color);
+            padding: 10px 14px;
+            text-align: left;
+        }
+
+        .table-verif th {
+            background-color: rgba(212, 175, 55, 0.1);
+            color: var(--accent-gold);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="frame">
+        <div class="header">
+            <div>
+                <div class="title">LEP-IMP-ENG-2026 // SWINE BROODING &amp; MATURING LAYOUT</div>
+                <div class="subtitle">Volumetric &amp; Biological Space Allocation Verification</div>
+            </div>
+            <div style="text-align: right; color: var(--accent-green); font-weight: bold;">
+                [SCAPUSH PRECISION VERIFIED]
+            </div>
+        </div>
+
+        <div class="grid-container">
+            <!-- BROODING POD SPEC -->
+            <div class="spec-box">
+                <div class="spec-title">STAGE 1: BROODING WEANER POD</div>
+                <div class="metric-row">
+                    <span class="metric-label">Dimensions:</span>
+                    <span class="metric-val">4.0m × 12.0m</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Total Floor Surface:</span>
+                    <span class="metric-val">48.0 m²</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Weaner Capacity:</span>
+                    <span class="metric-val">160 Head</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Space / Pig:</span>
+                    <span class="metric-val">0.30 m²/head</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Commercial Benchmark:</span>
+                    <span class="metric-val">0.20 - 0.30 m²/head</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Status:</span>
+                    <span class="pass-tag">✓ OPTIMAL BROODING DENSITY</span>
+                </div>
+            </div>
+
+            <!-- MATURING NURSERY SPEC -->
+            <div class="spec-box">
+                <div class="spec-title">STAGE 2: MATURING NURSERY HALL</div>
+                <div class="metric-row">
+                    <span class="metric-label">Dimensions:</span>
+                    <span class="metric-val">12.0m × 32.0m</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Total Floor Surface:</span>
+                    <span class="metric-val">384.0 m²</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Target Batch:</span>
+                    <span class="metric-val">160 Head (Base)</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Current Space / Pig:</span>
+                    <span class="metric-val" style="color: var(--accent-gold);">2.40 m²/head</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Max Safe Capacity (@0.75m²):</span>
+                    <span class="metric-val" style="color: var(--accent-teal);">Up to 512 Head</span>
+                </div>
+                <div class="metric-row">
+                    <span class="metric-label">Status:</span>
+                    <span class="pass-tag">✓ HIGH GROWTH EXPANSION CAPABILITY</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- CAD SCHEMATIC OVERVIEW -->
+        <svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+            <!-- Brooding Pod -->
+            <rect x="30" y="40" width="160" height="240" fill="rgba(249, 115, 22, 0.1)" stroke="var(--accent-orange)" stroke-width="2"></rect>
+            <text x="110" y="70" text-anchor="middle" fill="var(--accent-orange)" font-weight="bold" font-size="14">BROODING POD</text>
+            <text x="110" y="90" text-anchor="middle" fill="#94a3b8" font-size="12">4m × 12m (48 m²)</text>
+            <text x="110" y="150" text-anchor="middle" fill="#fff" font-weight="bold" font-size="16">160 WEANERS</text>
+            <text x="110" y="175" text-anchor="middle" fill="var(--accent-green)" font-size="12">0.30 m² / Head</text>
+            <text x="110" y="240" text-anchor="middle" fill="var(--accent-gold)" font-size="11">Hydronic Brooding Target: 28-30°C</text>
+
+            <!-- Transition Arrow -->
+            <path d="M 210 160 L 260 160" stroke="var(--accent-gold)" stroke-width="3" marker-end="url(#arrow)"></path>
+            <text x="235" y="150" text-anchor="middle" fill="var(--accent-gold)" font-size="10">TRANSFER</text>
+
+            <!-- Maturing Nursery -->
+            <rect x="280" y="40" width="580" height="240" fill="rgba(20, 184, 166, 0.1)" stroke="var(--accent-teal)" stroke-width="2"></rect>
+            <text x="570" y="70" text-anchor="middle" fill="var(--accent-teal)" font-weight="bold" font-size="14">MATURING NURSERY HALL</text>
+            <text x="570" y="90" text-anchor="middle" fill="#94a3b8" font-size="12">12m × 32m (384 m²)</text>
+            <text x="570" y="150" text-anchor="middle" fill="#fff" font-weight="bold" font-size="16">160 - 500 HEAD CAPACITY</text>
+            <text x="570" y="175" text-anchor="middle" fill="var(--accent-green)" font-size="12">2.40 m² / Head (Ultra-Spacious Baseline)</text>
+            <text x="570" y="240" text-anchor="middle" fill="var(--accent-teal)" font-size="11">Ambient Cooling / Ventilation Target: 18-22°C</text>
+        </svg>
+
+        <table class="table-verif">
+            <thead>
+                <tr>
+                    <th>Stage Enclosure</th>
+                    <th>Dimensions</th>
+                    <th>Surface Area</th>
+                    <th>Target Head</th>
+                    <th>Density Calculated</th>
+                    <th>Verification Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Stage 1 (Brooding)</strong></td>
+                    <td>4m × 12m</td>
+                    <td>48 m²</td>
+                    <td>160 Weaners</td>
+                    <td>0.30 m² / Head</td>
+                    <td><span class="pass-tag">PASSED</span> (Ideal Brooding Density)</td>
+                </tr>
+                <tr>
+                    <td><strong>Stage 2 (Maturing)</strong></td>
+                    <td>12m × 32m</td>
+                    <td>384 m²</td>
+                    <td>160 Head (Expansion up to 512)</td>
+                    <td>2.40 m² / Head</td>
+                    <td><span class="pass-tag">PASSED</span> (Zero Stress Growth Zone)</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+</body></html>
