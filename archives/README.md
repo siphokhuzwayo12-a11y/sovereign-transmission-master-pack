@@ -1,6 +1,7 @@
 # Archives
 
 This chamber preserves the **legacy scrolls** and **historical artifacts** of the Prestige Cosmic Venture.
+The beginning of the architectural research journey
 
 ## 📜 Past Drafts
 - Early prototypes and blueprint versions.
