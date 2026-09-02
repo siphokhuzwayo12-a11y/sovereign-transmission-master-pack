@@ -9,7 +9,7 @@ This chamber inscribes the **operational scrolls** of animal care and climate di
 - Density benchmarks aligned with commercial standards and welfare governance.
 
 ---
-## 4‑Pod Poultry Brooding Hydronic Thermal Distribution
+## 🐓 4‑Pod Poultry Brooding Hydronic Thermal Distribution
 Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
 
 - CHP Thermal Loop:
