@@ -1,6 +1,10 @@
 # Controllers
 
 This chamber contains **SCADA telemetry logic modules** and **fail‑safe control master blueprints**.
+## 🛡 Fail‑Safe Control Master
+- Logic blueprints ensuring zero‑leak, zero‑waste, zero‑mortality operation.
+- Includes simplified teachability engines for collaborators.
+
 
 ## ⚙️ SCADA Telemetry Logic
 - Modules for monitoring sovereign microgrid performance.
