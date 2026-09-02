@@ -80,5 +80,5 @@ Each artifact can be opened directly in the browser for live demonstration. it i
 
 ## 🏛 Usage
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/siphokhuzwayo12-a11y/prestige-collaborators-vault.git
+👉  git clone https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack.git
+
