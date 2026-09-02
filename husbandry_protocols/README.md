@@ -10,9 +10,6 @@ This chamber inscribes the **operational scrolls** of animal care and climate di
 
 ---
 
-
-
-
 ## 🐣 Brooding Cycles
 - Age‑specific temperature thresholds.
 - Ventilation and mist response charts.
@@ -61,11 +58,7 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 - **Allied Contributions** → partner artifacts and collaborative jewels.  
 - **Archives** → legacy drafts and historical records.
 
----### Purpose
-These charts are the **discipline scrolls** of animal care:
-- For funders → proof of operational readiness and welfare assurance.  
-- For collaborators → clear teaching modules for stocking and climate.  
-- For the sovereign venture → assurance that growth and welfare are governed with foresight.
+
 
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
