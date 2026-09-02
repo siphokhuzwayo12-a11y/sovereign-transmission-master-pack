@@ -24,5 +24,5 @@ The beginning of the architectural research journey
 Archives are the **memory vault** of the sovereign venture:  
 - For funders → proof of continuity and diligence.  
 - For collaborators → reference to past scrolls and drafts.  
-- For the sovereign venture → assurance that history is preserved.
+- For the sovereign venture → assurance that history is preserved, teachable & regenerative.
 
