@@ -8,6 +8,13 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - CHP hydronic expansion loops.
 - Nursery irrigation networks.
 
+## 🐖 Swine Thermal Hydronic Schematic
+- Bio‑Solar Microgrid floor heating and evaporative climate control integration.
+- Stage 1: Brooding pod thermal design (28–30°C air, 32°C floor).
+- Stage 2: Maturing hall thermal design (18–20°C air, cooling and ventilation).
+- Hydronic loop supply/return values, flow rate targets, and critical objectives.
+- Integration with CHP/TES thermal store for resilience.
+
 ## ⚡ Energy & Control Integration
 - Solar VFD drive and pump schematics.
 - Flow meters, level transmitters, and telemetry markers.
