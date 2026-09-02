@@ -1,5 +1,3 @@
-# sovereign-transmission-master-pack
-
 # Prestige Cosmic Venture — Sovereign Transmission Master Pack
 
 ## 🏛 Hierarchy of Chambers
