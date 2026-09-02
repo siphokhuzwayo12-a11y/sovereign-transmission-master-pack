@@ -38,6 +38,17 @@ Project: LEP‑IMP‑ENG‑2026 | Math Calculation Module (-CALC)
   - Autonomy / Runtime @ Load: 3.53 Hours
 - File Reference: LEP‑IMP‑ENG‑2026‑BESS_CALC_storage‑sizing_v1_0_20260731.html
 
+## 30kW PV / BESS Integration Teaching Deck
+Project: LEP‑IMP‑ENG‑2026 | Operational & Architecture Overview (-TEACH)
+
+- Module 02 // Dispatch & Strategy
+  - Mode A (Solar Priority): Direct PV powers site loads, surplus charges 60kWh BESS.
+  - Mode B (Peak Shaving & Backup): BESS discharges to maintain zero dropouts on SCADA/heating circuits.
+  - Mode C (CHP Co‑Generation Interlock): Biogas thermal output balanced with electrical SoC.
+  - Target Depth of Discharge: 80% lock for LFP lifecycle preservation.
+- File Reference: LEP‑IMP‑ENG‑2026‑BESS_TEACH_ops‑overview_v1.0_22060731.html
+
+Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
 
 ## 📐 Design Precision
 - CAD drawings with color‑coded subsystems.
