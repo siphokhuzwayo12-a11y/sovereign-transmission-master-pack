@@ -9,6 +9,23 @@ This chamber inscribes the **operational scrolls** of animal care and climate di
 - Density benchmarks aligned with commercial standards and welfare governance.
 
 ---
+## 4‑Pod Poultry Brooding Hydronic Thermal Distribution
+Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
+
+- CHP Thermal Loop:
+  - Supply Temp: 65.0 °C (DN40 Hot Supply Line)
+  - Return Temp: 45.0 °C (Hydronic Return Line)
+- Pods & Targets:
+  - POD 01: 33.5 °C | Age: Week 1 (Chicks)
+  - POD 02: 30.0 °C | Age: Week 2
+  - POD 03: 27.0 °C | Age: Week 3
+  - POD 04: 24.0 °C | Age: Week 4+
+- Control: SCADA 2‑Way Modulating Thermostatic Control Active
+- Integration: Hydronic heat exchangers balance age‑specific welfare cycles
+
+👉 Cross‑link: See **Schematics** for digester thermal integration.  
+👉 Cross‑link: See **Controllers** for SCADA thermostatic modules.  
+👉 Cross‑link: See **Research** for animal welfare validation studies.  
 
 ## 🐣 Brooding Cycles
 - Age‑specific temperature thresholds.
