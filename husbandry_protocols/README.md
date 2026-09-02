@@ -44,25 +44,21 @@ Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
 👉 Cross‑link: See **Controllers** for SCADA thermostatic modules.  
 👉 Cross‑link: See **Research** for animal welfare validation studies.  
 
-## 4‑Pod Swine Finisher Hydronic Thermal Distribution
-Project: LEP‑IMP‑ENG‑2026 | Biothermal Waste Heat Recovery Swine Nursery
+## Broiler Operational Teachability & Microgrid Load Balance Matrix
 
-- Hydronic Hot Supply Line: Sub‑floor PEX loop
-- Pods & Targets:
-  - POD 01: 30.0 °C | 7kg Weaners (Week 1–2) | 20 head per pen
-  - POD 02: 26.0 °C | 15–30kg Growth | 20 head per pen
-  - POD 03: 22.0 °C | 30–50kg Growth | 20 head per pen
-  - POD 04: 18.0 °C | 50–70kg Dispatch | 20 head per pen
-- Hydronic Return Line: 32.0 °C
-- Control: SCADA 2‑Way Modulating Thermostatic Valves
-- Integration: 16 modular sub‑pens balanced for growth and dispatch cycles
+- **Project:** LEP-IMP-ENG-2026 | 384 m² Bio-Solar Facility
+- **Core Deliverable:** Dual-strategy operational framework balancing continuous cash flow vs. bulk off-take contracts.
+- **Physical Boundary Values:**
+  - Total Area: 384 m² (4 Pods @ 96 m² each)
+  - Max Standing Density: 30.0 kg/m² (1,440 birds @ 2.0 kg/pod)
+  - Microgrid Sizing: 30kW PV / 60kWh BESS (Zero modifications required)
+- **Key Strategy Selection:**
+  - Strategy 1 (Staggered): Smooth 24/7 CHP load, rolling 10–12 day payouts.
+  - Strategy 2 (Batch): Cyclical peak CHP heat, 7-week bulk contract clearance.
 
-👉 Cross‑link: See **Schematics** for thermal distribution diagrams.  
-👉 Cross‑link: See **Controllers 🖥** for SCADA valve modules.  
-👉 Cross‑link: See **Research 🧪** for animal welfare validation studies.  
-
-Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
-
+👉 Cross-link: See **Schematics** for 4-Pod SCADA manifold routing.
+👉 Cross-link: See **Controllers 🖥** for SCADA temperature setpoints.
+👉 Cross-link: See **Research 🧪** for microgrid load balance simulations.
 
 ## 🐣 Brooding Cycles
 - Age‑specific temperature thresholds.
