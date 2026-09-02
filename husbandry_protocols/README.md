@@ -35,7 +35,7 @@ Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
 ## 🍽 Feeding Schedules
 - Daily ration charts by age.
 - Nutrient dispatch protocols.
-- Teaching modules for novice operators.
+- Teaching modules for initiates operators.
 
 ## 📊 Dispatch Charts
 - Age vs. feed vs. climate requirements.
