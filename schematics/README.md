@@ -15,6 +15,20 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - Hydronic loop supply/return values, flow rate targets, and critical objectives.
 - Integration with CHP/TES thermal store for resilience.
 
+## 70m³ Anaerobic Digester Thermal & Gas Integration
+Project: LEP‑IMP‑ENG‑2026 | Thermal & Gas Architecture
+
+- Vessel: Mesophilic Reaction Core (37°C standard)
+- Hydronic Loop: CHP Hot Water Supply (60°C) / Return (50°C)
+- Gas Path: Raw Biogas Line (CH4 / CO2 / H2S) → Scrubber → Clean Biogas to CHP
+- Scrubber: H2S Filter & Moisture Trap
+- Instrumentation:
+  - PT‑301 Dome Pressure
+  - TE‑301 Vessel Core Temp
+  - AT‑301 CH4 % Quality
+- Integration: SCADA telemetry for pressure, temperature, and gas quality
+- Location: Secunda‑Kinross Corridor, MP
+
 ## ⚡ Energy & Control Integration
 - Solar VFD drive and pump schematics.
 - Flow meters, level transmitters, and telemetry markers.
