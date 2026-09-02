@@ -29,8 +29,6 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - Title blocks and intellectual property inscriptions.
 - Scapush Precision Active schema for funder‑ready presentation.
 
-- 👉 Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
-
 ---
 
 ### Purpose
@@ -38,3 +36,5 @@ Schematics are the **visual scrolls** of the venture:
 - For funders → proof of integrated design and technical clarity.  
 - For collaborators → diagrams to refine, adapt, and implement.  
 - For the sovereign venture → assurance that every subsystem is inscribed with foresight and order.
+
+   👉 Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
