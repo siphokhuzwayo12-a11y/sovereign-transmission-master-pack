@@ -22,7 +22,7 @@ This chamber inscribes the **operational scrolls** of animal care and climate di
 ### Purpose
 Husbandry Protocols are the **living discipline scrolls**:
 - For funders → proof of operational readiness.  
-- For collaborators → clear teaching modules.  
+- For collaborators & Initiates → clear teachable modules.  
 - For the sovereign venture → assurance of animal welfare and climate control.
 
 # Prestige Cosmic Venture — Sovereign Transmission Master Pack
