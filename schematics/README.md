@@ -29,6 +29,8 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - Title blocks and intellectual property inscriptions.
 - Scapush Precision Active schema for funder‑ready presentation.
 
+- 👉 Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
+
 ---
 
 ### Purpose
