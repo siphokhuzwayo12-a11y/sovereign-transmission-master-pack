@@ -20,6 +20,10 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - Flow meters, level transmitters, and telemetry markers.
 - SCADA integration points aligned with Controllers.
 
+- Borehole Extraction & Distribution Schematic (LEP‑IMP‑ENG‑2026)
+- Swine Thermal Hydronic Schematic (Bio‑Solar Microgrid Integration)
+- Nursery Density & Climate Chart (Brooding Pod + Maturing Hall)
+
 ## 📐 Design Precision
 - CAD drawings with color‑coded subsystems.
 - Title blocks and intellectual property inscriptions.
