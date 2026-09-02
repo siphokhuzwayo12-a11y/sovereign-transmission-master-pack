@@ -69,12 +69,12 @@ It is designed as a transmission‑ready showcase for funders, allies, and colla
 
 ## ⚙️ Live Demonstrations
 Enable **GitHub Pages** to view artifacts interactively:
-- Solar Yield Simulation  
+- Fail Safe Simulation  
 - Broiler Dwarf Wall Auto‑Cover  
 - Microclimate Controller  
-- SCADA Telemetry Logic Module  
+- SCADA Telemetry Logic Module
 
-Each artifact can be opened directly in the browser for live demonstration.
+Each artifact can be opened directly in the browser for live demonstration. it is teachable.
 
 ---
 
