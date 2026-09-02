@@ -27,6 +27,26 @@ Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
 👉 Cross‑link: See **Controllers** for SCADA thermostatic modules.  
 👉 Cross‑link: See **Research** for animal welfare validation studies.  
 
+## 4‑Pod Swine Finisher Hydronic Thermal Distribution
+Project: LEP‑IMP‑ENG‑2026 | Biothermal Waste Heat Recovery Swine Nursery
+
+- Hydronic Hot Supply Line: Sub‑floor PEX loop
+- Pods & Targets:
+  - POD 01: 30.0 °C | 7kg Weaners (Week 1–2) | 20 head per pen
+  - POD 02: 26.0 °C | 15–30kg Growth | 20 head per pen
+  - POD 03: 22.0 °C | 30–50kg Growth | 20 head per pen
+  - POD 04: 18.0 °C | 50–70kg Dispatch | 20 head per pen
+- Hydronic Return Line: 32.0 °C
+- Control: SCADA 2‑Way Modulating Thermostatic Valves
+- Integration: 16 modular sub‑pens balanced for growth and dispatch cycles
+
+👉 Cross‑link: See **Schematics** for thermal distribution diagrams.  
+👉 Cross‑link: See **Controllers 🖥** for SCADA valve modules.  
+👉 Cross‑link: See **Research 🧪** for animal welfare validation studies.  
+
+Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
+
+
 ## 🐣 Brooding Cycles
 - Age‑specific temperature thresholds.
 - Ventilation and mist response charts.
