@@ -24,7 +24,7 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - Swine Thermal Hydronic Schematic (Bio‑Solar Microgrid Integration)
 - Nursery Density & Climate Chart (Brooding Pod + Maturing Hall)
 
-## BESS Storage Sizing & Runtime Engine
+## ⚡BESS Storage Sizing & Runtime Engine
 Project: LEP‑IMP‑ENG‑2026 | Math Calculation Module (-CALC)
 
 - Input Parameters:
@@ -38,7 +38,7 @@ Project: LEP‑IMP‑ENG‑2026 | Math Calculation Module (-CALC)
   - Autonomy / Runtime @ Load: 3.53 Hours
 - File Reference: LEP‑IMP‑ENG‑2026‑BESS_CALC_storage‑sizing_v1_0_20260731.html
 
-## 30kW PV / BESS Integration Teaching Deck
+## ⚡30kW PV / BESS Integration Teaching Deck
 Project: LEP‑IMP‑ENG‑2026 | Operational & Architecture Overview (-TEACH)
 
 - Module 02 // Dispatch & Strategy
