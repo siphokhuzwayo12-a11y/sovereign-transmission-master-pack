@@ -1,5 +1,18 @@
 # Blueprints
 
+## Master Capital Allocation & Governance Architecture Slide
+
+- **Project:** LEP-IMP-ENG-2026 | Lwandile Engineering Projects
+- **Total Master Allocation:** ZAR 3,100,000 ($167,568 USD)
+- **Governance Anchor:** Dr. Palesa Charlotte Tumi FELIX-FAURE (PhD) - France / South Africa
+- **Core Key Improvements:**
+  - Integrated 8th team card for Academic Governance & Biosystems Anchor.
+  - Added formal Governance Seal banner anchored at the base of the scroll.
+  - Updated regional strategic summary to reflect French academic alliance.
+
+👉 Cross-link: See **Schematics** for site infrastructure layouts.
+👉 Cross-link: See **Controllers 🖥** for SCADA energy/water management integration.
+👉 Cross-link: See **Husbandry Protocols 🐓** for 4-Pod swine/broiler thermal distribution.
 This chamber contains **strategic design scrolls** and **thermal management frameworks** — the architectural backbone of the Prestige Cosmic Venture.
 
 ## 🔥 Digester Thermal Management
