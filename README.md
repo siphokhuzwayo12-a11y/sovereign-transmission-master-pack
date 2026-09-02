@@ -1,5 +1,7 @@
 # Prestige Cosmic Venture — Sovereign Bio-Solar Engine Transmission Master Pack
 
+This vault gathers the sovereign chambers of the venture: Prototypes, Controllers, Blueprints, Schematics, Research, Husbandry Protocols, Allied Contributions, and Archives.
+
 ## 🏛 Hierarchy of Chambers
 
 ROOT: Sovereign Transmission Master Pack
@@ -52,11 +54,6 @@ Live prototypes • Controllers • Blueprints • Strategic Modules
 ## 🌍 Vision
 This vault gathers all ceremonial artifacts of the **Prestige Cosmic Venture**.  
 It is designed as a transmission‑ready showcase for funders, allies, and collaborators, uniting prototypes and blueprints into one sovereign chamber.
-
-
-# Prestige Cosmic Venture — Sovereign Transmission Master Pack
-
-This vault gathers the sovereign chambers of the venture: Prototypes, Controllers, Blueprints, Schematics, Research, Husbandry Protocols, Allied Contributions, and Archives.
 
 ---
 
