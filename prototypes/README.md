@@ -3,7 +3,7 @@
 This chamber contains **interactive HTML simulations** that demonstrate the living pulse of the Prestige Cosmic Venture.
 
 ## 🌞 Thermal Manifold Microclimate Feeder 
-- Prototype showing daily hot/cold water returnsolar energy curve.
+- Prototype showing daily hot/cold water return.
 - Transmission‑ready for funders to visualize thermal distribution.
 
 ## 🐔 Broiler Dwarf Wall Auto‑Cover
