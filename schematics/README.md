@@ -24,6 +24,21 @@ This chamber holds the **visual backbone** of the Prestige Cosmic Venture — th
 - Swine Thermal Hydronic Schematic (Bio‑Solar Microgrid Integration)
 - Nursery Density & Climate Chart (Brooding Pod + Maturing Hall)
 
+## BESS Storage Sizing & Runtime Engine
+Project: LEP‑IMP‑ENG‑2026 | Math Calculation Module (-CALC)
+
+- Input Parameters:
+  - Nominal Storage Capacity: 60 kWh
+  - Depth of Discharge: 80%
+  - Inverter & System Efficiency: 92%
+  - Critical Load Demand: 12.5 kW
+- Calculated Metrics:
+  - Usable Energy Capacity: 48.00 kWh
+  - Net Delivered AC Energy: 44.16 kWh
+  - Autonomy / Runtime @ Load: 3.53 Hours
+- File Reference: LEP‑IMP‑ENG‑2026‑BESS_CALC_storage‑sizing_v1_0_20260731.html
+
+
 ## 📐 Design Precision
 - CAD drawings with color‑coded subsystems.
 - Title blocks and intellectual property inscriptions.
@@ -37,4 +52,4 @@ Schematics are the **visual scrolls** of the venture:
 - For collaborators → diagrams to refine, adapt, and implement.  
 - For the sovereign venture → assurance that every subsystem is inscribed with foresight and order.
 
-   👉 Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
+Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
