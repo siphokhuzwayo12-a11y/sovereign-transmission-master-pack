@@ -53,17 +53,31 @@ Live prototypes • Controllers • Blueprints • Strategic Modules
 This vault gathers all ceremonial artifacts of the **Prestige Cosmic Venture**.  
 It is designed as a transmission‑ready showcase for funders, allies, and collaborators, uniting prototypes and blueprints into one sovereign chamber.
 
+
+# Prestige Cosmic Venture — Sovereign Transmission Master Pack
+
+This vault gathers the sovereign chambers of the venture: Prototypes, Controllers, Blueprints, Schematics, Research, Husbandry Protocols, Allied Contributions, and Archives.
+
 ---
 
-## 📂 Contents
-- **Prototypes**  
-  Interactive HTML simulations (solar yield, broiler wall auto‑cover, microclimate controllers).
-- **Controllers**  
-  SCADA telemetry logic modules and fail‑safe control master blueprints.
-- **Blueprints**  
-  Digester thermal management, EV charging alliance proposals, risk mitigation frameworks.
-- **Allied Contributions**  
-  Collaborator packs and joint innovation scrolls.
+## 🎓 Governance & Academic Anchor
+Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
+- Serves as **Governance Custodian** ensuring protocols align with sovereign welfare and academic rigor.
+- Anchors the **Bio‑Solar Academic Dimension**, validating research and husbandry scrolls.
+- Provides funders with assurance of oversight, continuity, and scholarly legitimacy.
+- Elevates operational charts (brooding, feeding, dispatch schedules) into **institutionalized protocols**.
+
+---
+
+## 🏛 Sovereign Chambers
+- **Prototypes** → interactive demos and simulations.  
+- **Controllers** → live telemetry and fail‑safe logic.  
+- **Blueprints** → architectural frameworks and strategic designs.  
+- **Schematics** → visual diagrams and CAD‑layered flows.  
+- **Research** → theoretical studies and feasibility scrolls.  
+- **Husbandry Protocols** → brooding, feeding, age‑temperature charts, dispatch schedules.  
+- **Allied Contributions** → partner artifacts and collaborative jewels.  
+- **Archives** → legacy drafts and historical records.
 
 ---
 
@@ -77,6 +91,13 @@ Enable **GitHub Pages** to view artifacts interactively:
 Each artifact can be opened directly in the browser for live demonstration. it is teachable.
 
 ---
+
+### Purpose
+This vault is both **operational repository** and **academic curriculum**:
+- For funders → proof of governance, rigor, and readiness.  
+- For collaborators → structured chambers to contribute and refine.  
+- For the sovereign venture → assurance that every jewel is inscribed with foresight, discipline, and prestige.
+
 
 ## 🏛 Usage
 1. Clone the repository:  
