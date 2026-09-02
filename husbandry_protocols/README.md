@@ -60,6 +60,23 @@ Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
 👉 Cross-link: See **Controllers 🖥** for SCADA temperature setpoints.
 👉 Cross-link: See **Research 🧪** for microgrid load balance simulations.
 
+## Dwarf Wall Ventilation & Biosecurity Protocol (LEP-BIO-002)
+
+- **Module:** POULTRY-2026 | Lwandile Engineering Projects
+- **Mortality Target:** 0.00% Zero-Loss Standard
+- **Core Defense Architecture:**
+  - High-density steel mesh barrier mounted permanently behind dynamic curtains.
+  - Deep roof overhang eaves preventing bird dropping entry.
+  - 1-3m perimeter gravel rodent aprons and continuous water-line sanitation.
+- **SCADA Controlled States:**
+  - Cold/Night (A=1): Y_C=1, Y_S=1 (Sealed thermal retention)
+  - Midday Heat (A=0, B=0): Y_C=0, Y_S=0 (Cross-ventilation & ammonia purge)
+  - High Wind (B=1): Y_C=1 (Wind chill & dust deflection shield)
+
+👉 Cross-link: See **Schematics** for dwarf wall mesh & eaves structural profiles.
+👉 Cross-link: See **Controllers 🖥** for automated curtain motor SCADA logic.
+👉 Cross-link: See **Husbandry Protocols 🐓** for 4-Pod Broiler Matrix integration.
+
 ## 🐣 Brooding Cycles
 - Age‑specific temperature thresholds.
 - Ventilation and mist response charts.
