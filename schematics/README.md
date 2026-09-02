@@ -48,8 +48,6 @@ Project: LEP‑IMP‑ENG‑2026 | Operational & Architecture Overview (-TEACH)
   - Target Depth of Discharge: 80% lock for LFP lifecycle preservation.
 - File Reference: LEP‑IMP‑ENG‑2026‑BESS_TEACH_ops‑overview_v1.0_22060731.html
 
-Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
-
 ## 📐 Design Precision
 - CAD drawings with color‑coded subsystems.
 - Title blocks and intellectual property inscriptions.
