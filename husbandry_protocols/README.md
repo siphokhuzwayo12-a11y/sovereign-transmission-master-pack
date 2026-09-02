@@ -42,6 +42,31 @@ Project: LEP‑IMP‑ENG‑2026 | CHP Waste Heat Recovered Poultry Warming
 - Operational readiness for scaling.
 - Integration with Controllers telemetry.
 
+## Stage 5: Market Dispatch & Transport
+Project: LEP‑IMP‑ENG‑2026 | Broiler Final Preparation
+
+- Pre‑Sale Preparation:
+  - Feed Withdrawal: 12–18 hours before slaughter (continuous water access maintained).
+  - Documentation: Chain‑of‑custody, medication withdrawal logs, health certificates.
+
+- Loading & Handling:
+  - Handling: Soundboard/paddles only, no electric prods.
+  - Movement: Small groups (3–5 pigs).
+  - Ramp Design: Non‑slip flooring, incline < 20°.
+
+- Transport Welfare:
+  - Density: 0.4–0.5 m² per 100 kg pig.
+  - Climate Control: Early morning/night transport in hot weather.
+  - Bedding: Straw/sawdust adjusted by season.
+
+👉 Note: Minimizing pre‑slaughter stress prevents PSE (Pale, Soft, Exudative) meat defects.  
+
+👉 Cross‑link: See **Research 🧪** for welfare validation studies.  
+👉 Cross‑link: See **Blueprints 📘** for dispatch governance frameworks.  
+
+Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
+
+
 ---
 
 ### Purpose
