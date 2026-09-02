@@ -33,6 +33,7 @@ Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
 - Modules for monitoring sovereign microgrid performance.
 - Transmission‑ready for live demonstration.
 
+
 ## 🖥 SCADA Dashboards
 - Central SCADA Master Integration Dashboard.
 - PV/BESS telemetry nodes, digester monitoring, CHP hydronic engine.
@@ -47,7 +48,7 @@ Controllers are the **nervous system** of the sovereign venture:
 - For collaborators → live telemetry modules to refine and expand.  
 - For the sovereign venture → assurance that systems breathe with control and safety.
 
-
+Governance oversight: Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)
 
 
 
