@@ -62,6 +62,19 @@ Project: LEP‑IMP‑ENG‑2026 | Operational & Architecture Overview (-TEACH)
   - Target Depth of Discharge: 80% lock for LFP lifecycle preservation.
 - File Reference: LEP‑IMP‑ENG‑2026‑BESS_TEACH_ops‑overview_v1.0_22060731.html
 
+## Site Infrastructure & Thermal Engineering Architecture Schematic
+
+- **Project:** LEP-IMP-ENG-2026-LAYOUT | Lwandile Engineering Projects
+- **Core Engineering Deliverables:**
+  - Borehole-to-Fertilizer Complete Site Flow (Zone A: Power/Water, Zone B: Barns, Zone C: Bio-Engine).
+  - 18.5 kW_thermal CHP heat recovery manifold sizing & secondary TV-101 loop control.
+  - Complete 7-device SCADA Field Instrumentation Schedule (Level, Thermal, Pressure, Gas Quality, Air, Flow).
+- **Fertilizer Dewatering Standard:** 1.75 m³/day wet digestate -> 165 kg/day dry bagged organic bio-fertilizer (3.2-2.1-2.4 NPK).
+
+👉 Cross-link: See **Controllers 🖥** for Modbus RTU & LoRaWAN telemetry code.
+👉 Cross-link: See **Husbandry Protocols 🐓** for 4-Pod swine/broiler thermal distribution.
+👉 Cross-link: See **Research 🧪** for 70m³ mass balance calculations.
+
 ## 📐 Design Precision
 - CAD drawings with color‑coded subsystems.
 - Title blocks and intellectual property inscriptions.
