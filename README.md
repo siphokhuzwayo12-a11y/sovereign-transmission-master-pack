@@ -78,67 +78,20 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 ---
 
-## ⚙️ Live Demonstrations
-Enable **GitHub Pages** to view artifacts interactively:
-- Fail Safe Simulation  
-- Broiler Dwarf Wall Auto‑Cover  
-- Microclimate Controller  
-- SCADA Telemetry Logic Module
+## ⚙️ Interactive Live Simulations & Artifacts
 
-Each artifact can be opened directly in the browser for live demonstration. it is teachable.
+Click any module below to launch its interactive simulation directly in your browser:
 
----
-
-## ⚙️ Live Demonstrations
-
-| Artifact Module | Interactive Live Simulation | Status |
+| Control Module / Artifact | Target Domain | Interactive Live Demonstration |
 | :--- | :--- | :--- |
-| **Fail Safe Simulation** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/fail-safe.html) | `Active` |
-| **Broiler Dwarf Wall Auto‑Cover** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/broiler-wall.html) | `Active` |
-| **Microclimate Controller** | [Open Simulation ➔](https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/broiler_microclimate_simulator.html) | `Active` |
-| **SCADA Telemetry Logic Module** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/scada-logic.html) | `Active` |
-
-<div class="walkthrough-grid">
-  <!-- Card 1 -->
-  <button class="demo-card" onclick="runScenario('dawn')">
-    <div class="card-header">
-      <span class="time">07:00 AM — Dawn Sweep</span>
-      <span class="icon">➔</span>
-    </div>
-    <h3>Dawn Gas Clear</h3>
-    <p>Ammonia build-up triggers safety ventilation. Drip lines remain strictly locked out.</p>
-  </button>
-
-  <!-- Card 2 -->
-  <button class="demo-card" onclick="runScenario('peak')">
-    <div class="card-header">
-      <span class="time">13:00 PM — Peak Heat</span>
-      <span class="icon">➔</span>
-    </div>
-    <h3>Porcine Skin Wetting</h3>
-    <p>Temp hits <strong>32°C</strong>. High ventilation runs; intermittent drip-lines trigger skin-cooling.</p>
-  </button>
-
-  <!-- Card 3 -->
-  <button class="demo-card" onclick="runScenario('evening')">
-    <div class="card-header">
-      <span class="time">19:00 PM — Evening</span>
-      <span class="icon">➔</span>
-    </div>
-    <h3>Steady State Comfort</h3>
-    <p>Temps drop to comfortable <strong>20°C</strong>. Environmental standby operations.</p>
-  </button>
-
-  <!-- Card 4 -->
-  <button class="demo-card" onclick="runScenario('winter')">
-    <div class="card-header">
-      <span class="time">01:00 AM — Winter Draft</span>
-      <span class="icon">➔</span>
-    </div>
-    <h3>Swine Draft Lockout</h3>
-    <p>Freezing drafts threat (T = 5°C). Cold override locks out both drippers and fans.</p>
-  </button>
-</div>
+| **Swine Microclimate Controller** | Swine Husbandry | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/swine_microclimate_controller.html) |
+| **Broiler Microclimate Simulator** | Avian Management | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/broiler_microclimate_simulator.html) |
+| **Precision Irrigation Controller** | Agricultural Automation | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/precision_irrigation_controller.html) |
+| **Thermal Valve Master Logic** | Thermal Control Systems | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/thermal_valve_master_logic.html) |
+| **Unified Master Control Center** | Centralized SCADA | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/unified_master_control_center.html) |
+| **Broiler Dwarf Wall Auto-Cover** | Structural Automation | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/broiler_dwarf_wall_auto_cover.html) |
+| **Stage Thermal Matrix** | Broiler Stage Heating | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html) |
+| **Hydroponics Nursery Controller** | Precision Hydroponics | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/hydroponics_nursery_controller.html) |
 
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
