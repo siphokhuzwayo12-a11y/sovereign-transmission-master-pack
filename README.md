@@ -104,8 +104,6 @@ Click any protocol below to launch the live interactive documentation directly i
 * [2026 Broiler Husbandry (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026%20_%20BROILER_HUSBANDERY.html)
 * [Staggered Batch Operational Matrix (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026%20_%20Staggered-Batch%20_Operational%20_Matrix.html)
 
----
-
 <details>
 <summary><b>📐 System Schematics & Management Guides (Click to Expand)</b></summary>
 <br>
