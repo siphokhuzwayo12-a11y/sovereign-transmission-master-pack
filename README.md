@@ -92,6 +92,19 @@ Click any module below to launch the live interactive simulation directly in you
 * [Stage Thermal Matrix](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
 * [Hydroponics Nursery Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/hydroponics_nursery_controller.html)
 
+---
+
+📋 Husbandry Protocols & Operational Frameworks
+
+Click any protocol below to launch the live interactive documentation directly in your browser:
+
+* [Zero Mortality 4-Pod Broiler Finishers](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/Zero_Mortality_4-Pod_Broiler_Finishers.html)
+* [Zero Mortality 4-Pod Swine Finishers](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/Zero_Mortality_4_Pod_Swine_Finishers.html)
+* [2026 Weaner Husbandry (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026_WEANER_HUSBANDERY.html)
+* [2026 Broiler Husbandry (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026%20_%20BROILER_HUSBANDERY.html)
+* [Staggered Batch Operational Matrix (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026%20_%20Staggered-Batch%20_Operational%20_Matrix.html)
+
+
 ## 🔄 System Lifecycle & Evolution Architecture
 
 To maintain clarity for collaborators, engineers, and executive funders, our system architecture operates across three distinct operational phases:
