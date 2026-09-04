@@ -104,6 +104,22 @@ Click any protocol below to launch the live interactive documentation directly i
 * [2026 Broiler Husbandry (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026%20_%20BROILER_HUSBANDERY.html)
 * [Staggered Batch Operational Matrix (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/LEP-IMP-ENG-2026%20_%20Staggered-Batch%20_Operational%20_Matrix.html)
 
+---
+
+<details>
+<summary><b>📐 System Schematics & Management Guides (Click to Expand)</b></summary>
+<br>
+
+Click any schematic or guide below to launch the live interactive view directly in your browser:
+
+* [Borehole Water Sub-system (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026_Borehole_Water_Sub-system.html)
+* [70m³ Digester CAD (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026-70m%C2%B3_Digester_CAD.html)
+* [Swine Thermal Design & Hydronic Control Matrix](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026%20_%20Swine_Thermal_Design_%26_Hydronic_Control_Matrix.html)
+* [Swine Nursery Layout Verification](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026%20_Swine_Nursery_Layout_Verification.html)
+* [Porcine Management Guide: Farrowing to Market](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/Porcine_Management_Guide_%20Farrowing_to_Market.html)
+* [BESS Electrical SLD v1.0 (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026-BESS_DWG_electrical-sld_v1.0_20260731.html.html)
+
+</details>
 
 ## 🔄 System Lifecycle & Evolution Architecture
 
