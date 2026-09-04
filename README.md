@@ -89,6 +89,16 @@ Each artifact can be opened directly in the browser for live demonstration. it i
 
 ---
 
+## ⚙️ Live Demonstrations
+
+| Artifact Module | Interactive Live Simulation | Status |
+| :--- | :--- | :--- |
+| **Fail Safe Simulation** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/fail-safe.html) | `Active` |
+| **Broiler Dwarf Wall Auto‑Cover** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/broiler-wall.html) | `Active` |
+| **Microclimate Controller** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/microclimate.html) | `Active` |
+| **SCADA Telemetry Logic Module** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/scada-logic.html) | `Active` |
+
+
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
 - For funders → proof of governance, rigor, and readiness.  
