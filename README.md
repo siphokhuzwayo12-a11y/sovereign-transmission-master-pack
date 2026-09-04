@@ -78,20 +78,18 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 ---
 
-## ⚙️ Interactive Live Simulations & Artifacts
+## ⚙️ Interactive Live Simulations
 
-Click any module below to launch its interactive simulation directly in your browser:
+Click any badge to launch the live browser demonstration:
 
-| Control Module / Artifact | Target Domain | Interactive Live Demonstration |
-| :--- | :--- | :--- |
-| **Swine Microclimate Controller** | Swine Husbandry | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/swine_microclimate_controller.html) |
-| **Broiler Microclimate Simulator** | Avian Management | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_microclimate_simulator.html) |
-| **Precision Irrigation Controller** | Agricultural Automation | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/precision_irrigation_controller.html) |
-| **Thermal Valve Master Logic** | Thermal Control Systems | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/thermal_valve_master_logic.html) |
-| **Unified Master Control Center** | Centralized SCADA | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/unified_master_control_center.html) |
-| **Broiler Dwarf Wall Auto-Cover** | Structural Automation | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_dwarf_wall_auto_cover.html) |
-| **Stage Thermal Matrix** | Broiler Stage Heating | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html) |
-| **Hydroponics Nursery Controller** | Precision Hydroponics | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/hydroponics_nursery_controller.html) |
+* **Swine Microclimate Controller** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/swine_microclimate_controller.html)
+* **Broiler Microclimate Simulator** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_microclimate_simulator.html)
+* **Precision Irrigation Controller** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/precision_irrigation_controller.html)
+* **Thermal Valve Master Logic** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/thermal_valve_master_logic.html)
+* **Unified Master Control Center** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/unified_master_control_center.html)
+* **Broiler Dwarf Wall Auto-Cover** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_dwarf_wall_auto_cover.html)
+* **Stage Thermal Matrix** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
+* **Hydroponics Nursery Controller** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/hydroponics_nursery_controller.html)
 
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
