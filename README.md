@@ -32,6 +32,18 @@ ROOT: Sovereign Transmission Master Pack
 
 ---
 
+## 🏛 Sovereign Chambers
+- **Prototypes** → interactive demos and simulations.  
+- **Controllers** → live telemetry and fail‑safe logic.  
+- **Blueprints** → architectural frameworks and strategic designs.  
+- **Schematics** → visual diagrams and CAD‑layered flows.  
+- **Research** → theoretical studies and feasibility scrolls.  
+- **Husbandry Protocols** → brooding, feeding, age‑temperature charts, dispatch schedules.  
+- **Allied Contributions** → partner artifacts and collaborative jewels.  
+- **Archives** → legacy drafts and historical records.
+
+---
+
 ## 🔗 Interlocking Synergy
 - **Blueprints ↔ Schematics** → Textual frameworks linked with visual diagrams  
 - **Schematics ↔ Controllers** → Design diagrams connected to live telemetry dashboards  
@@ -63,18 +75,6 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 - Anchors the **Bio‑Solar Academic Dimension**, validating research and husbandry scrolls.
 - Provides funders with assurance of oversight, continuity, and scholarly legitimacy.
 - Elevates operational charts (brooding, feeding, dispatch schedules) into **institutionalized protocols**.
-
----
-
-## 🏛 Sovereign Chambers
-- **Prototypes** → interactive demos and simulations.  
-- **Controllers** → live telemetry and fail‑safe logic.  
-- **Blueprints** → architectural frameworks and strategic designs.  
-- **Schematics** → visual diagrams and CAD‑layered flows.  
-- **Research** → theoretical studies and feasibility scrolls.  
-- **Husbandry Protocols** → brooding, feeding, age‑temperature charts, dispatch schedules.  
-- **Allied Contributions** → partner artifacts and collaborative jewels.  
-- **Archives** → legacy drafts and historical records.
 
 ---
 
