@@ -99,47 +99,46 @@ Each artifact can be opened directly in the browser for live demonstration. it i
 | **SCADA Telemetry Logic Module** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/scada-logic.html) | `Active` |
 
 <div class="walkthrough-grid">
-  <!-- Scenario 1 -->
-  <a href="#demo-dawn" class="demo-card" onclick="runScenario('dawn')">
+  <!-- Card 1 -->
+  <button class="demo-card" onclick="runScenario('dawn')">
     <div class="card-header">
       <span class="time">07:00 AM — Dawn Sweep</span>
       <span class="icon">➔</span>
     </div>
     <h3>Dawn Gas Clear</h3>
     <p>Ammonia build-up triggers safety ventilation. Drip lines remain strictly locked out.</p>
-  </a>
+  </button>
 
-  <!-- Scenario 2 -->
-  <a href="#demo-peak" class="demo-card" onclick="runScenario('peak')">
+  <!-- Card 2 -->
+  <button class="demo-card" onclick="runScenario('peak')">
     <div class="card-header">
       <span class="time">13:00 PM — Peak Heat</span>
       <span class="icon">➔</span>
     </div>
     <h3>Porcine Skin Wetting</h3>
     <p>Temp hits <strong>32°C</strong>. High ventilation runs; intermittent drip-lines trigger skin-cooling.</p>
-  </a>
+  </button>
 
-  <!-- Scenario 3 -->
-  <a href="#demo-evening" class="demo-card" onclick="runScenario('evening')">
+  <!-- Card 3 -->
+  <button class="demo-card" onclick="runScenario('evening')">
     <div class="card-header">
       <span class="time">19:00 PM — Evening</span>
       <span class="icon">➔</span>
     </div>
     <h3>Steady State Comfort</h3>
     <p>Temps drop to comfortable <strong>20°C</strong>. Environmental standby operations.</p>
-  </a>
+  </button>
 
-  <!-- Scenario 4 -->
-  <a href="#demo-winter" class="demo-card" onclick="runScenario('winter')">
+  <!-- Card 4 -->
+  <button class="demo-card" onclick="runScenario('winter')">
     <div class="card-header">
       <span class="time">01:00 AM — Winter Draft</span>
       <span class="icon">➔</span>
     </div>
     <h3>Swine Draft Lockout</h3>
     <p>Freezing drafts threat (T = 5°C). Cold override locks out both drippers and fans.</p>
-  </a>
+  </button>
 </div>
-
 
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
