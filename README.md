@@ -78,21 +78,7 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 ---
 
-⚙️ Live Prototypes & Interactive Demonstrations
-
-Click any module below to launch the live interactive simulation directly in your browser:
-
-* [Swine Microclimate Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/swine_microclimate_controller.html)
-* [Broiler Microclimate Simulator](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/broiler_microclimate_simulator.html)
-* [Precision Irrigation Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/precision_irrigation_controller.html)
-* [Thermal Valve Master Logic](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/thermal_valve_master_logic.html)
-* [Unified Master Control Center](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/unified_master_control_center.html)
-* [Broiler Dwarf Wall Auto-Cover](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/broiler_dwarf_wall_auto_cover.html)
-* [Stage Thermal Matrix](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
-* [Hydroponics Nursery Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/hydroponics_nursery_controller.html)
-
-
-⚙️ Live Prototypes & Interactive Demonstrations
+⚙️ Simulations & Interactive Demonstrations
 
 Click any module below to launch the live interactive simulation directly in your browser:
 
@@ -106,6 +92,19 @@ Click any module below to launch the live interactive simulation directly in you
 * [Stage Thermal Matrix](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
 * [Hydroponics Nursery Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/hydroponics_nursery_controller.html)
 
+## 🔄 System Lifecycle & Evolution Architecture
+
+To maintain clarity for collaborators, engineers, and executive funders, our system architecture operates across three distinct operational phases:
+
+| Phase | Designation | Execution Medium | Operational Objective |
+| :--- | :--- | :--- | :--- |
+| **01** | **Interactive Simulation (Current)** | Web Canvas & Browser Telemetry | Algorithmic stress-testing, safety lockout verification, and risk-free digital twin validation. |
+| **02** | **Functional Prototype** | Bench-Tested Microcontrollers & Sensors | Deploying compiled logic onto physical hardware (ESP32 / PLC) with live relays and actuators. |
+| **03** | **Production Implementation** | Industrial Bio-Solar Engine Dome | Complete physical infrastructure integration executing dynamic microclimate and automation logic. |
+
+> **Note:** The live interactive web artifacts linked above represent **Phase 01 (Digital Twin Simulations)**. They validate the sovereign control algorithms before physical hardware deployment.
+
+---
 
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
