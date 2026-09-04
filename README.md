@@ -78,18 +78,19 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 ---
 
-⚙️ Live Prototypes
+⚙️ Live Prototypes & Interactive Demonstrations
 
-Enable GitHub Pages or click directly to view interactive simulations:
+Click any module below to launch the live interactive simulation directly in your browser:
 
-* [Swine Microclimate Controller](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/swine_microclimate_controller.html)
-* [Broiler Microclimate Simulator](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/broiler_microclimate_simulator.html)
-* [Precision Irrigation Controller](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/precision_irrigation_controller.html)
-* [Thermal Valve Master Logic](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/thermal_valve_master_logic.html)
-* [Unified Master Control Center](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/unified_master_control_center.html)
-* [Broiler Dwarf Wall Auto-Cover](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/broiler_dwarf_wall_auto_cover.html)
-* [Stage Thermal Matrix](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
-* [Hydroponics Nursery Controller](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/hydroponics_nursery_controller.html)
+* [Swine Microclimate Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/swine_microclimate_controller.html)
+* [Broiler Microclimate Simulator](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/broiler_microclimate_simulator.html)
+* [Precision Irrigation Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/precision_irrigation_controller.html)
+* [Thermal Valve Master Logic](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/thermal_valve_master_logic.html)
+* [Unified Master Control Center](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/unified_master_control_center.html)
+* [Broiler Dwarf Wall Auto-Cover](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/broiler_dwarf_wall_auto_cover.html)
+* [Stage Thermal Matrix](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
+* [Hydroponics Nursery Controller](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/prototypes/hydroponics_nursery_controller.html)
+
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
 - For funders → proof of governance, rigor, and readiness.  
