@@ -105,15 +105,14 @@ Click any module below to launch its interactive simulation directly in your bro
 
 | Control Module / Artifact | Target Domain | Interactive Live Demonstration |
 | :--- | :--- | :--- |
-| **Swine Microclimate Controller** | Swine Husbandry | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/swine_microclimate_controller.html) |
-| **Broiler Microclimate Simulator** | Avian Management | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_microclimate_simulator.html) |
-| **Precision Irrigation Controller** | Agricultural Automation | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/precision_irrigation_controller.html) |
-| **Thermal Valve Master Logic** | Thermal Control Systems | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/thermal_valve_master_logic.html) |
-| **Unified Master Control Center** | Centralized SCADA | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/unified_master_control_center.html) |
-| **Broiler Dwarf Wall Auto-Cover** | Structural Automation | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_dwarf_wall_auto_cover.html) |
-| **Stage Thermal Matrix** | Broiler Stage Heating | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html) |
-| **Hydroponics Nursery Controller** | Precision Hydroponics | [Launch Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/hydroponics_nursery_controller.html) |
-
+| **Swine Microclimate Controller** | Swine Husbandry | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/swine_microclimate_controller.html) |
+| **Broiler Microclimate Simulator** | Avian Management | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/broiler_microclimate_simulator.html) |
+| **Precision Irrigation Controller** | Agricultural Automation | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/precision_irrigation_controller.html) |
+| **Thermal Valve Master Logic** | Thermal Control Systems | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/thermal_valve_master_logic.html) |
+| **Unified Master Control Center** | Centralized SCADA | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/unified_master_control_center.html) |
+| **Broiler Dwarf Wall Auto-Cover** | Structural Automation | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/broiler_dwarf_wall_auto_cover.html) |
+| **Stage Thermal Matrix** | Broiler Stage Heating | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html) |
+| **Hydroponics Nursery Controller** | Precision Hydroponics | [Launch Simulation ➔](https://htmlpreview.github.io/?https://github.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/blob/main/prototypes/hydroponics_nursery_controller.html) |
 
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
