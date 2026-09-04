@@ -78,15 +78,18 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 ---
 
-## ⚙️ Live Demonstrations
+⚙️ Live Prototypes
 
-| Artifact Module | Interactive Live Simulation | Status |
-| :--- | :--- | :--- |
-| **Fail Safe Simulation** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/fail-safe.html) | `Active` |
-| **Broiler Dwarf Wall Auto‑Cover** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/broiler-wall.html) | `Active` |
-| **Microclimate Controller** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/microclimate.html) | `Active` |
-| **SCADA Telemetry Logic Module** | [Open Simulation ➔](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/scada-logic.html) | `Active` |
+Enable GitHub Pages or click directly to view interactive simulations:
 
+* [Swine Microclimate Controller](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/swine_microclimate_controller.html)
+* [Broiler Microclimate Simulator](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/broiler_microclimate_simulator.html)
+* [Precision Irrigation Controller](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/precision_irrigation_controller.html)
+* [Thermal Valve Master Logic](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/thermal_valve_master_logic.html)
+* [Unified Master Control Center](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/unified_master_control_center.html)
+* [Broiler Dwarf Wall Auto-Cover](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/broiler_dwarf_wall_auto_cover.html)
+* [Stage Thermal Matrix](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/Broiler%20Microclimate%20Controller%20-%20Stage%20Thermal%20Matrix.html)
+* [Hydroponics Nursery Controller](https://cdn.jsdelivr.net/gh/siphokhuzwayo12-a11y/sovereign-transmission-master-pack@main/prototypes/hydroponics_nursery_controller.html)
 ### Purpose
 This vault is both **operational repository** and **academic curriculum**:
 - For funders → proof of governance, rigor, and readiness.  
