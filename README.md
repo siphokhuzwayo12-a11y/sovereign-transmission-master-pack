@@ -82,7 +82,7 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 Click any badge to launch the live browser demonstration:
 
-* **Swine Microclimate Controller** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/swine_microclimate_controller.html)
+* **Swine Microclimate Controller** — [![Live Demo](sovereign-transmission-master-pack/prototypes/swine_microclimate_controller.html at main · siphokhuzwayo12-a11y/sovereign-transmission-master-pack)
 * **Broiler Microclimate Simulator** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/broiler_microclimate_simulator.html)
 * **Precision Irrigation Controller** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/precision_irrigation_controller.html)
 * **Thermal Valve Master Logic** — [![Live Demo](https://img.shields.io/badge/Simulation-Launch_Live-emerald)](https://siphokhuzwayo12-a11y.github.io/sovereign-transmission-master-pack/prototypes/thermal_valve_master_logic.html)
