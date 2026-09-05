@@ -87,6 +87,7 @@ Click any blueprint below to launch the live interactive executive view directly
 * [Lwandile Engineering Projects — R3.1M Master Infrastructure Allocation](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20Projects%20_%20R3.1M%20Master%20Infrastructure%20Allocation_final.html)
 * [Sovereign Integrated Green Mineral Master Framework](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/alliance_contributions/Sovereign_Integrated_Green_Mineral_Master_Framework.html)
 
+---
 
 </details>
 
@@ -128,6 +129,9 @@ Click any schematic or guide below to launch the live interactive view directly 
 * [Swine Nursery Layout Verification](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026%20_Swine_Nursery_Layout_Verification.html)
 * [Porcine Management Guide: Farrowing to Market](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/husbandry_protocols/Porcine_Management_Guide_%20Farrowing_to_Market.html)
 * [BESS Electrical SLD v1.0 (LEP-IMP-ENG-2026)](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/schematics/LEP-IMP-ENG-2026-BESS_DWG_electrical-sld_v1.0_20260731.html.html)
+
+---
+
 </details>
 
 ## 🔄 System Lifecycle & Evolution Architecture
