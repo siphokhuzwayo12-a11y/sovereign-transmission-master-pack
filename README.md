@@ -180,7 +180,7 @@ Click below to enter the live room or scan the QR code to join immediately from 
 No software installations, plugin downloads, or corporate registrations are required.
 
 1. **Access:** Click the **Lwandile Engineering Command Center** link above or scan the QR code.
-2. **Identity:** Enter your official Name and Institutional Title when prompted.
+2. **Identity:** Enter your official e-mail or institutional website when prompted.
 3. **Connect:** Click **Join Meeting**.
 4. **Bypass Prompt:** If a pop-up appears displaying secondary share options (*Scan QR*, *Send Email*, *Send URL*), select **Close**.
 5. **Node Synchronization:** Your session will immediately initialize with direct peer-to-peer crystal video and studio audio feed.
