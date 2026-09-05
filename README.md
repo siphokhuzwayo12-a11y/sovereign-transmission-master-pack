@@ -88,6 +88,8 @@ Click any blueprint below to launch the live interactive executive view directly
 * [Lwandile Engineering — Sovereign Bio-Engine Business Plan](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20_%20Sovereign%20Bio-Engine%20Business%20Plan.html)
 * [Lwandile Engineering Projects — R3.1M Master Infrastructure Allocation](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20Projects%20_%20R3.1M%20Master%20Infrastructure%20Allocation_final.html)
 
+</details>ts%20_%20R3.1M%20Master%20Infrastructure%20Allocation_final.html)
+
 </details>
 
 ⚙️ Simulations & Interactive Demonstrations
