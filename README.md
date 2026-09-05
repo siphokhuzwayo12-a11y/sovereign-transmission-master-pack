@@ -80,11 +80,11 @@ Guided by **Dr. Palesa Charlotte Tumi FELIX‑FAURE (PhD)**:
 
 🏛️ Master Blueprints & Strategic Infrastructure
 
-Click any blueprint or strategic framework below to launch the live interactive executive view directly in your browser:
+Click any blueprint below to launch the live interactive executive view directly in your browser:
 
 * [Closed-Loop Bio-Solar Microgrid Infrastructure](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Closed-Loop%20Bio-Solar_Microgrid_Infrastructure.html)
 * [Lwandile Engineering — Sovereign Bio-Engine Business Plan](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20_%20Sovereign%20Bio-Engine%20Business%20Plan.html)
-* [Lwandile Engineering Projects — R3.1M Master Infrastructure Allocation](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20Projects%20_%20R3.1M%20Master%20Infrastructure%20Allocation_final.html
+* [Lwandile Engineering Projects — R3.1M Master Infrastructure Allocation](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/blueprints/Lwandile%20Engineering%20Projects%20_%20R3.1M%20Master%20Infrastructure%20Allocation_final.html)
 * [Sovereign Integrated Green Mineral Master Framework](https://raw.githack.com/siphokhuzwayo12-a11y/sovereign-transmission-master-pack/main/alliance_contributions/Sovereign_Integrated_Green_Mineral_Master_Framework.html)
 
 
