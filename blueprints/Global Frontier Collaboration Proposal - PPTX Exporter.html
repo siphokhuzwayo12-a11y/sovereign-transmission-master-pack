@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<!-- saved from url=(0131)file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/624bf8c2-b2b9-496d-bcbd-42f5d019c4b6/gemini-code-1788562653372.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Frontier Collaboration Proposal - PPTX Exporter</title>
+    <!-- Include PptxGenJS Library -->
+    <script src="./Global Frontier Collaboration Proposal - PPTX Exporter_files/pptxgen.bundle.js.download"></script>
+    <style>
+        :root {
+            --bg-color: #0a0e14;
+            --card-bg: #121820;
+            --accent-green: #00e676;
+            --accent-gold: #ffb300;
+            --text-color: #f0f4f8;
+            --text-muted: #94a3b8;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 40px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .export-bar {
+            position: sticky;
+            top: 20px;
+            z-index: 1000;
+            margin-bottom: 30px;
+            background: rgba(18, 24, 32, 0.9);
+            padding: 15px 25px;
+            border-radius: 8px;
+            border: 1px solid var(--accent-green);
+            box-shadow: 0 4px 20px rgba(0, 230, 118, 0.2);
+            backdrop-filter: blur(5px);
+        }
+
+        .btn-export {
+            background-color: var(--accent-green);
+            color: #000;
+            font-weight: bold;
+            font-size: 16px;
+            padding: 12px 28px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .btn-export:hover {
+            background-color: #00c853;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 230, 118, 0.4);
+        }
+
+        .slide {
+            width: 900px;
+            height: 506px; /* 16:9 Aspect Ratio */
+            background-color: var(--card-bg);
+            border: 1px solid #1e293b;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-sizing: border-box;
+            position: relative;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        .tag {
+            color: var(--accent-green);
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-size: 12px;
+            margin-bottom: 10px;
+        }
+
+        h1 { font-size: 28px; margin: 0 0 15px 0; color: var(--text-color); }
+        h2 { font-size: 20px; margin: 0 0 10px 0; color: var(--accent-gold); }
+        p { color: var(--text-muted); line-height: 1.5; font-size: 14px; }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #334155;
+            padding: 10px;
+            text-align: left;
+            font-size: 12px;
+        }
+
+        th { background-color: #1e293b; color: var(--accent-green); }
+        td { background-color: #0f172a; color: var(--text-color); }
+
+        .footer {
+            position: absolute;
+            bottom: 20px;
+            left: 40px;
+            right: 40px;
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            color: var(--text-muted);
+            border-top: 1px solid #1e293b;
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="export-bar">
+        <button class="btn-export" onclick="generatePPTX()">Export to PowerPoint (.pptx)</button>
+    </div>
+
+    <!-- Preview Container -->
+    <div id="presentation-preview">
+        <!-- Slide 1 -->
+        <div class="slide">
+            <div class="tag">Global Frontier Collaboration Proposal</div>
+            <h1 style="font-size: 32px; color: var(--text-color);">Modular Bio-Solar &amp; Heavy Fleet Electrification</h1>
+            <h2>Joint Off-Grid Infrastructure Architecture for Mining, Ports &amp; SADC Logistics Corridors</h2>
+            <div style="margin-top: 40px;">
+                <table>
+                    <tbody><tr>
+                        <th>Technology Partner</th>
+                        <th>In-Country EPC Partner</th>
+                        <th>Primary Context</th>
+                        <th>Execution Framework</th>
+                    </tr>
+                    <tr>
+                        <td>Hongjiali New Energy</td>
+                        <td>Lwandile Engineering Projects</td>
+                        <td>Kinross &amp; Secunda Hubs</td>
+                        <td style="color: var(--accent-green); font-weight: bold;">Scapush Precision</td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div class="footer">
+                <span>Scapush Precision Execution Standard</span>
+                <span>Slide 1</span>
+            </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="slide">
+            <div class="tag">Executive Alignment</div>
+            <h1>Shared Vision &amp; Strategic Scope</h1>
+            <p><strong>Problem:</strong> Remote industrial operations, ports, and mining haulage corridors across the SADC region face severe grid instability, capacity constraints, and unsustainable diesel generation costs.</p>
+            <p><strong>Solution:</strong> Coupling Hongjiali’s containerized high-power DC charging hardware with Lwandile’s localized Bio-Solar co-generation engine delivers continuous 24/7 off-grid power.</p>
+            <div class="footer">
+                <span>Hongjiali x Lwandile Engineering</span>
+                <span>Slide 2</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function generatePPTX() {
+            let pptx = new PptxGenJS();
+            pptx.layout = 'LAYOUT_16x9';
+
+            // Define Global Colors
+            const COLOR_BG = "0A0E14";
+            const COLOR_CARD = "121820";
+            const COLOR_GREEN = "00E676";
+            const COLOR_GOLD = "FFB300";
+            const COLOR_TEXT = "F0F4F8";
+            const COLOR_MUTED = "94A3B8";
+
+            // SLIDE 1: Title
+            let slide1 = pptx.addSlide();
+            slide1.background = { color: COLOR_BG };
+            slide1.addText("GLOBAL FRONTIER COLLABORATION PROPOSAL", { x: 0.8, y: 0.8, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true, charSpacing: 2 });
+            slide1.addText("Modular Bio-Solar & Heavy Fleet Electrification", { x: 0.8, y: 1.3, w: 11.0, h: 0.8, fontSize: 30, color: COLOR_TEXT, bold: true });
+            slide1.addText("Joint Off-Grid Infrastructure Architecture for Mining, Ports & SADC Logistics Corridors", { x: 0.8, y: 2.2, w: 11.0, h: 0.5, fontSize: 16, color: COLOR_GOLD });
+            
+            slide1.addTable([
+                [
+                    { text: "Technology Partner\nHongjiali New Energy", options: { color: COLOR_TEXT, align: "center", fill: "1E293B" } },
+                    { text: "In-Country EPC Partner\nLwandile Engineering", options: { color: COLOR_TEXT, align: "center", fill: "1E293B" } },
+                    { text: "Primary Context\nKinross & Secunda Hubs", options: { color: COLOR_TEXT, align: "center", fill: "1E293B" } },
+                    { text: "Execution Framework\nScapush Precision", options: { color: COLOR_GREEN, bold: true, align: "center", fill: "1E293B" } }
+                ]
+            ], { x: 0.8, y: 3.5, w: 11.7, fontSize: 12 });
+
+            // SLIDE 2: Vision
+            let slide2 = pptx.addSlide();
+            slide2.background = { color: COLOR_BG };
+            slide2.addText("EXECUTIVE ALIGNMENT", { x: 0.8, y: 0.8, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true, charSpacing: 2 });
+            slide2.addText("Shared Vision & Strategic Scope", { x: 0.8, y: 1.3, w: 11.0, h: 0.6, fontSize: 24, color: COLOR_TEXT, bold: true });
+            
+            slide2.addText("Problem Statement", { x: 0.8, y: 2.2, w: 11.0, h: 0.3, fontSize: 16, color: COLOR_GOLD, bold: true });
+            slide2.addText("Remote industrial operations, ports, and mining haulage corridors across the SADC region face severe grid instability, capacity constraints, and unsustainable diesel generation costs.", { x: 0.8, y: 2.6, w: 11.0, h: 0.8, fontSize: 14, color: COLOR_MUTED });
+            
+            slide2.addText("Proposed Solution", { x: 0.8, y: 3.6, w: 11.0, h: 0.3, fontSize: 16, color: COLOR_GREEN, bold: true });
+            slide2.addText("Coupling Hongjiali's containerized high-power DC charging hardware with Lwandile's localized Bio-Solar co-generation engine delivers 24/7 continuous off-grid power.", { x: 0.8, y: 4.0, w: 11.0, h: 0.8, fontSize: 14, color: COLOR_MUTED });
+
+            // SLIDE 3: Partnership Matrix
+            let slide3 = pptx.addSlide();
+            slide3.background = { color: COLOR_BG };
+            slide3.addText("CAPABILITY INTEGRATION", { x: 0.8, y: 0.8, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true });
+            slide3.addText("Strategic Partnership Matrix", { x: 0.8, y: 1.3, w: 11.0, h: 0.6, fontSize: 24, color: COLOR_TEXT, bold: true });
+            
+            slide3.addTable([
+                [
+                    { text: "Hongjiali Hardware & Tech", options: { color: COLOR_GREEN, bold: true, fill: "1E293B" } },
+                    { text: "Lwandile EPC & Execution", options: { color: COLOR_GOLD, bold: true, fill: "1E293B" } },
+                    { text: "Combined Value Outcome", options: { color: COLOR_TEXT, bold: true, fill: "1E293B" } }
+                ],
+                [
+                    { text: "Ultra-Fast DC Chargers", options: { color: COLOR_TEXT, fill: COLOR_CARD } },
+                    { text: "Substation connection, civil pads & site installation", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Turnkey rapid deployment for port and mining fleets.", options: { color: COLOR_TEXT, fill: COLOR_CARD } }
+                ],
+                [
+                    { text: "Containerized ESS Units", options: { color: COLOR_TEXT, fill: COLOR_CARD } },
+                    { text: "Anaerobic Bio-Conversion & Microgrid Integration", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "24/7 continuous base-load smoothing peak power draws.", options: { color: COLOR_TEXT, fill: COLOR_CARD } }
+                ]
+            ], { x: 0.8, y: 2.2, w: 11.7, fontSize: 11 });
+
+            // SLIDE 4: Tri-Power Hybrid Engine
+            let slide4 = pptx.addSlide();
+            slide4.background = { color: COLOR_BG };
+            slide4.addText("CORE ARCHITECTURE", { x: 0.8, y: 0.8, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true });
+            slide4.addText("Tri-Power Hybrid Generation Engine", { x: 0.8, y: 1.3, w: 11.0, h: 0.6, fontSize: 24, color: COLOR_TEXT, bold: true });
+            
+            slide4.addText("1. Solar PV Array: Daytime peak generation feeding directly into DC charging buses and buffer storage.", { x: 0.8, y: 2.3, w: 11.0, h: 0.6, fontSize: 14, color: COLOR_TEXT });
+            slide4.addText("2. Bio-Conversion Base-Load: MOD-Z2-03 zero-waste anaerobic co-gen delivers uninterrupted 24/7 base-load power.", { x: 0.8, y: 3.1, w: 11.0, h: 0.6, fontSize: 14, color: COLOR_TEXT });
+            slide4.addText("3. Hongjiali ESS Buffer: High-rate battery storage absorbs sudden megawatt demand spikes from heavy haulers.", { x: 0.8, y: 3.9, w: 11.0, h: 0.6, fontSize: 14, color: COLOR_TEXT });
+
+            // SLIDE 5: Technical Mass Balance
+            let slide5 = pptx.addSlide();
+            slide5.background = { color: COLOR_BG };
+            slide5.addText("TECHNICAL FLOW", { x: 0.8, y: 0.8, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true });
+            slide5.addText("Energy Mass-Balance & Conversions", { x: 0.8, y: 1.3, w: 11.0, h: 0.6, fontSize: 24, color: COLOR_TEXT, bold: true });
+            
+            slide5.addTable([
+                [
+                    { text: "Stage", options: { color: COLOR_GREEN, fill: "1E293B" } },
+                    { text: "Input Component", options: { color: COLOR_GREEN, fill: "1E293B" } },
+                    { text: "Process / Conversion", options: { color: COLOR_GREEN, fill: "1E293B" } },
+                    { text: "Output Supply", options: { color: COLOR_GREEN, fill: "1E293B" } }
+                ],
+                [
+                    { text: "1. Primary Intake", options: { color: COLOR_TEXT, fill: COLOR_CARD } },
+                    { text: "Solar Radiation + Organic Waste", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "PV Generation & Anaerobic Digestion", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Raw Gas & DC Solar Energy", options: { color: COLOR_TEXT, fill: COLOR_CARD } }
+                ],
+                [
+                    { text: "2. Base-Load Co-Gen", options: { color: COLOR_TEXT, fill: COLOR_CARD } },
+                    { text: "Methane Biogas & Waste Heat", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Co-Gen Engine + Hydronic Recovery", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Continuous Electricity & Thermal Utility", options: { color: COLOR_TEXT, fill: COLOR_CARD } }
+                ],
+                [
+                    { text: "3. Power Conditioning", options: { color: COLOR_TEXT, fill: COLOR_CARD } },
+                    { text: "Co-Gen Power + Solar PV", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Hongjiali ESS Management System", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Stabilized DC Bus Power", options: { color: COLOR_TEXT, fill: COLOR_CARD } }
+                ],
+                [
+                    { text: "4. Fleet Dispatch", options: { color: COLOR_TEXT, fill: COLOR_CARD } },
+                    { text: "Stabilized DC Bus Supply", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Hongjiali Ultra-Fast DC Chargers", options: { color: COLOR_MUTED, fill: COLOR_CARD } },
+                    { text: "Megawatt Fleet Charging Output", options: { color: COLOR_TEXT, fill: COLOR_CARD } }
+                ]
+            ], { x: 0.8, y: 2.2, w: 11.7, fontSize: 10 });
+
+            // SLIDE 6: Execution & Contact
+            let slide6 = pptx.addSlide();
+            slide6.background = { color: COLOR_BG };
+            slide6.addText("EXECUTION DIRECTIVE", { x: 0.8, y: 0.8, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true });
+            slide6.addText("Target Objective & Contact Points", { x: 0.8, y: 1.3, w: 11.0, h: 0.6, fontSize: 24, color: COLOR_TEXT, bold: true });
+            
+            slide6.addText("Objective: Building the African Energy & Mobility Corridor", { x: 0.8, y: 2.3, w: 11.0, h: 0.5, fontSize: 16, color: COLOR_GOLD, bold: true });
+            slide6.addText("Partnership: Hongjiali Technology x Lwandile In-Country EPC Partnership", { x: 0.8, y: 2.9, w: 11.0, h: 0.5, fontSize: 14, color: COLOR_TEXT });
+            
+            slide6.addText("Primary Contacts:\n• Lwandile.Projects@Industrial-Precision.com\n• siphokhuzwayo12@gmail.com", { x: 0.8, y: 3.6, w: 11.0, h: 1.0, fontSize: 14, color: COLOR_MUTED });
+            
+            slide6.addText("Framework: Scapush Precision Execution Standard", { x: 0.8, y: 5.0, w: 11.0, h: 0.4, fontSize: 12, color: COLOR_GREEN, bold: true });
+
+            // Save Presentation
+            pptx.writeFile({ fileName: "Lwandile_Hongjiali_BioSolar_Proposal.pptx" });
+        }
+    </script>
+
+</body></html>
