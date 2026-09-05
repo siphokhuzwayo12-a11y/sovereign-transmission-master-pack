@@ -154,6 +154,8 @@ This vault is both **operational repository** and **academic curriculum**:
 - For collaborators → structured chambers to contribute and refine.  
 - For the sovereign venture → assurance that every jewel is inscribed with foresight, discipline, and prestige.
 
+---
+
 # 🏛️ SOVEREIGN COMMUNICATION COMMAND CENTER
 > **Official Executive Boardroom & Institutional Node | Lwandile Engineering Projects**
 
