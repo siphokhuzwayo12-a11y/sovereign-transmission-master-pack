@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<!-- saved from url=(0141)file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-3 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lwandile Engineering | Sovereign Bio-Engine Business Plan</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./Lwandile Engineering _ Sovereign Bio-Engine Business Plan_files/css2" rel="stylesheet">
+    <style>
+        :root {
+            --bg-main: #0B0F19;
+            --bg-card: #111827;
+            --bg-card-hover: #1F2937;
+            --accent-green: #10B981;
+            --accent-emerald: #059669;
+            --accent-glow: rgba(16, 185, 129, 0.15);
+            --border-color: #374151;
+            --border-light: #1F2937;
+            --text-primary: #F9FAFB;
+            --text-secondary: #9CA3AF;
+            --text-muted: #6B7280;
+            --font-heading: 'Space Grotesk', sans-serif;
+            --font-body: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-main);
+            color: var(--text-primary);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* HEADER SECTION */
+        header {
+            background: linear-gradient(135deg, rgba(17, 24, 39, 0.8) 0%, rgba(11, 15, 25, 1) 100%);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 3rem 2.5rem;
+            margin-bottom: 2.5rem;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 1.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .brand-title {
+            font-family: var(--font-heading);
+            font-size: 1.25rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--accent-green);
+            font-weight: 700;
+        }
+
+        .doc-badge {
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid var(--accent-green);
+            color: var(--accent-green);
+            padding: 0.35rem 0.85rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .header-title {
+            font-family: var(--font-heading);
+            font-size: 2.5rem;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 1rem;
+            background: linear-gradient(180deg, #FFFFFF 0%, #D1D5DB 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .header-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px dashed var(--border-light);
+        }
+
+        .meta-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .meta-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+            margin-bottom: 0.25rem;
+        }
+
+        .meta-value {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* NAVIGATION / TOC */
+        .toc-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            padding: 1.75rem;
+            margin-bottom: 3rem;
+        }
+
+        .toc-title {
+            font-family: var(--font-heading);
+            font-size: 1.1rem;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .toc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 0.75rem;
+        }
+
+        .toc-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            padding: 0.5rem 0.75rem;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid transparent;
+            display: flex;
+            align-items: center;
+        }
+
+        .toc-link:hover {
+            background: var(--bg-card-hover);
+            color: var(--accent-green);
+            border-color: var(--border-color);
+        }
+
+        .toc-number {
+            color: var(--accent-green);
+            font-weight: 700;
+            margin-right: 0.5rem;
+            font-family: var(--font-heading);
+        }
+
+        /* SECTIONS & CARDS */
+        .section-block {
+            margin-bottom: 3rem;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .section-number {
+            background: var(--accent-green);
+            color: var(--bg-main);
+            font-family: var(--font-heading);
+            font-weight: 700;
+            font-size: 1rem;
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .section-title {
+            font-family: var(--font-heading);
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            letter-spacing: -0.02em;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.25rem;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: border-color 0.2s ease;
+        }
+
+        .card:hover {
+            border-color: var(--border-color);
+        }
+
+        .card-title {
+            font-family: var(--font-heading);
+            font-size: 1.1rem;
+            color: var(--accent-green);
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+
+        .card-body {
+            color: var(--text-secondary);
+            font-size: 0.925rem;
+            line-height: 1.6;
+        }
+
+        /* LISTS */
+        ul.styled-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        ul.styled-list li {
+            position: relative;
+            padding-left: 1.25rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-secondary);
+            font-size: 0.925rem;
+        }
+
+        ul.styled-list li::before {
+            content: "•";
+            color: var(--accent-green);
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        /* TABLES */
+        .table-wrapper {
+            width: 100%;
+            overflow-x: auto;
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            margin-top: 1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            font-size: 0.9rem;
+        }
+
+        th {
+            background: rgba(255, 255, 255, 0.03);
+            color: var(--text-primary);
+            font-family: var(--font-heading);
+            font-weight: 600;
+            padding: 1rem 1.25rem;
+            border-bottom: 1px solid var(--border-color);
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.05em;
+        }
+
+        td {
+            padding: 1rem 1.25rem;
+            border-bottom: 1px solid var(--border-light);
+            color: var(--text-secondary);
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background: rgba(255, 255, 255, 0.01);
+        }
+
+        .highlight-row td {
+            font-weight: 700;
+            color: var(--accent-green);
+            background: rgba(16, 185, 129, 0.05);
+        }
+
+        /* METRICS & CHARTS VISUALIZATIONS */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .metric-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .metric-value {
+            font-family: var(--font-heading);
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: var(--accent-green);
+            margin-top: 0.25rem;
+        }
+
+        .chart-container {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .chart-bar-group {
+            margin-bottom: 1rem;
+        }
+
+        .chart-bar-group:last-child {
+            margin-bottom: 0;
+        }
+
+        .chart-label {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            margin-bottom: 0.35rem;
+            color: var(--text-secondary);
+        }
+
+        .chart-bar-bg {
+            background: var(--bg-main);
+            height: 12px;
+            border-radius: 6px;
+            overflow: hidden;
+            width: 100%;
+        }
+
+        .chart-bar-fill {
+            background: linear-gradient(90deg, var(--accent-emerald) 0%, var(--accent-green) 100%);
+            height: 100%;
+            border-radius: 6px;
+        }
+
+        /* TIMELINE VISUALIZATION */
+        .timeline-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.25rem;
+            margin-top: 1rem;
+        }
+
+        .timeline-step {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-left: 4px solid var(--accent-green);
+            border-radius: 0 12px 12px 0;
+            padding: 1.25rem;
+        }
+
+        .timeline-step-title {
+            font-family: var(--font-heading);
+            color: var(--text-primary);
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        /* GLOSSARY LIST */
+        .glossary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
+        .glossary-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: 8px;
+            padding: 1rem 1.25rem;
+        }
+
+        .glossary-term {
+            font-family: var(--font-heading);
+            color: var(--accent-green);
+            font-weight: 700;
+            font-size: 0.95rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .glossary-def {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            line-height: 1.5;
+        }
+
+        footer {
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                padding: 1.5rem;
+            }
+            .header-title {
+                font-size: 1.75rem;
+            }
+            .section-title {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- HEADER SECTION -->
+    <header>
+        <div class="header-top">
+            <div class="brand-title">Lwandile Engineering</div>
+            <div class="doc-badge">Master Business Plan</div>
+        </div>
+        <h1 class="header-title">Sovereign Bio-Engine Architecture</h1>
+        <p style="color: var(--text-secondary); font-size: 1.05rem; max-width: 800px;">
+            An integrated off-grid agricultural-industrial system engineered for sovereign energy autonomy, high-density livestock production, and circular bio-resource utilization.
+        </p>
+        <div class="header-meta">
+            <div class="meta-item">
+                <span class="meta-label">Project Lead</span>
+                <span class="meta-value">Lwandile Engineering Projects</span>
+            </div>
+            <div class="meta-item">
+                <span class="meta-label">Strategic Partner</span>
+                <span class="meta-value">Prestige Cosmic Venture</span>
+            </div>
+            <div class="meta-item">
+                <span class="meta-label">Primary Region</span>
+                <span class="meta-value">Kinross &amp; Secunda Corridor</span>
+            </div>
+            <div class="meta-item">
+                <span class="meta-label">Capital Facility</span>
+                <span class="meta-value" style="color: var(--accent-green);">ZAR 3,100,000</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- TABLE OF CONTENTS -->
+    <nav class="toc-card">
+        <div class="toc-title">
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7"></path></svg>
+            Document Structure
+        </div>
+        <div class="toc-grid">
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-1" class="toc-link"><span class="toc-number">01.</span> Background</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-2" class="toc-link"><span class="toc-number">02.</span> Project Description</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-3" class="toc-link"><span class="toc-number">03.</span> Project Rationale</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-4" class="toc-link"><span class="toc-number">04.</span> Competitive Advantages</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-5" class="toc-link"><span class="toc-number">05.</span> Risks &amp; Mitigants</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-6" class="toc-link"><span class="toc-number">06.</span> Salient Figures</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-7" class="toc-link"><span class="toc-number">07.</span> Strategic Fit</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-8" class="toc-link"><span class="toc-number">08.</span> Capital Request</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-9" class="toc-link"><span class="toc-number">09.</span> Roadmap &amp; Timeline</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-10" class="toc-link"><span class="toc-number">10.</span> References</a>
+            <a href="file:///C:/Users/ASUS/AppData/Local/Temp/MicrosoftEdgeDownloads/3f44e799-7579-4809-b7ee-96ec96e5d2db/gemini-code-1788566920826.html#section-11" class="toc-link"><span class="toc-number">11.</span> Technical Glossary</a>
+        </div>
+    </nav>
+
+    <!-- SECTION 1 -->
+    <section id="section-1" class="section-block">
+        <div class="section-header">
+            <div class="section-number">01</div>
+            <h2 class="section-title">Background</h2>
+        </div>
+        <div class="card-grid">
+            <div class="card">
+                <div class="card-title">Promoters &amp; Sponsors</div>
+                <div class="card-body">
+                    The initiative is driven by <strong>Lwandile Engineering Projects</strong> in direct partnership with <strong>Prestige Cosmic Venture</strong>[cite: 5]. The collective brings specialized technical and execution capabilities to deploy off-grid agricultural-industrial infrastructure across strategic corridors[cite: 5].
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-title">Company Profile &amp; Strategy</div>
+                <div class="card-body">
+                    Lwandile Engineering Projects functions as an agricultural-industrial asset developer[cite: 5]. The core business model centers on closed-loop infrastructure designed to eliminate utility grid dependencies, protect operational margins from tariff inflation, and optimize livestock densities[cite: 5].
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-title">Scope Objectives</div>
+                <div class="card-body">
+                    <ul class="styled-list">
+                        <li>Deploy a sovereign bio-thermal food asset in the Kinross/Secunda industrial belt[cite: 5].</li>
+                        <li>Construct zero-grid poultry and swine structures with integrated thermal regulation[cite: 5].</li>
+                        <li>Target full operational capital payback within 2.6 years through multi-stream revenue[cite: 5].</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 2 -->
+    <section id="section-2" class="section-block">
+        <div class="section-header">
+            <div class="section-number">02</div>
+            <h2 class="section-title">Project Description</h2>
+        </div>
+        <div class="card-grid" style="margin-bottom: 1.25rem;">
+            <div class="card">
+                <div class="card-title">Status &amp; Regional Profile</div>
+                <div class="card-body">
+                    The Bio-Solar Engine asset model is fully engineered, featuring complete structural layouts, technical schematics, and capital ledgers[cite: 5]. Positioned within the <strong>Kinross &amp; Secunda corridor</strong> in Mpumalanga[cite: 5], the asset leverages direct access to agricultural supply networks and mining community channels[cite: 5].
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-title">Technical Architecture</div>
+                <div class="card-body">
+                    <ul class="styled-list">
+                        <li><strong>Co-Generation Sync:</strong> Diverts engine thermal jacket exhaust into sub-floor radiant heating systems[cite: 5].</li>
+                        <li><strong>Passive Climate Control:</strong> Convective roof ridge chimneys reduce baseline electrical ventilation draws[cite: 5].</li>
+                        <li><strong>Biosecurity Isolation:</strong> Modular partition walls bound bio-pathogen exposure risks to a max 25% zone capacity[cite: 5].</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">Commercial Channels &amp; Target Markets</div>
+            <div class="card-body">
+                <div class="table-wrapper" style="border: none;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Production Unit</th>
+                                <th>Operational Cycle</th>
+                                <th>Target Output Volume</th>
+                                <th>Unit Pricing Base</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Broiler Sprint Barn</strong></td>
+                                <td>6 Waves / Year[cite: 5]</td>
+                                <td>5,760 broilers per wave[cite: 5]</td>
+                                <td>ZAR 38.00 / kg[cite: 5]</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Swine Grower Pipeline</strong></td>
+                                <td>3 Batches / Year[cite: 5]</td>
+                                <td>160 pigs (7kg to 70kg carcass wt)[cite: 5]</td>
+                                <td>ZAR 32.00 / kg[cite: 5]</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Bio-Solids Processing</strong></td>
+                                <td>Continuous Digestate[cite: 5]</td>
+                                <td>High-nutrient organic fertilizer[cite: 5]</td>
+                                <td>Commercial Bagged Rates[cite: 5]</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 3 & 4 -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.5rem;" class="section-block">
+        <section id="section-3">
+            <div class="section-header">
+                <div class="section-number">03</div>
+                <h2 class="section-title">Project Rationale</h2>
+            </div>
+            <div class="card" style="height: calc(100% - 52px);">
+                <div class="card-body">
+                    Conventional livestock operations remain vulnerable to escalating municipal tariffs, power grid failures, and cold-snap mortalities[cite: 5]. By coupling solar generation with organic waste anaerobic digestion, the Bio-Solar Engine insulates production environments from external market volatility while turning waste liabilities into stable power and heating[cite: 5].
+                </div>
+            </div>
+        </section>
+
+        <section id="section-4">
+            <div class="section-header">
+                <div class="section-number">04</div>
+                <h2 class="section-title">Competitive Advantages</h2>
+            </div>
+            <div class="card" style="height: calc(100% - 52px);">
+                <div class="card-body">
+                    <ul class="styled-list">
+                        <li><strong>Off-Grid Autonomy:</strong> Operates fully detached from national utilities under a ZAR 1.80/kWh tariff shield model[cite: 5].</li>
+                        <li><strong>Integrated Sub-Floor Heat:</strong> Repurposes generator exhaust heat for radiant underfloor heating without additional fuel costs[cite: 5].</li>
+                        <li><strong>Modular Biosecurity:</strong> Features 4-pad structural firewalls, 2% concrete slopes, inline UV sterilizers, and shower-in portals[cite: 5].</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- SECTION 5 -->
+    <section id="section-5" class="section-block">
+        <div class="section-header">
+            <div class="section-number">05</div>
+            <h2 class="section-title">Risks &amp; System Defenses</h2>
+        </div>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Risk Scenario Event</th>
+                        <th>Impact Profile</th>
+                        <th>Automated System Defenses Deployed</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Severe Highveld Storms</strong>[cite: 5]</td>
+                        <td><span style="color: #FBBF24; font-weight: 600;">Moderate</span>[cite: 5]</td>
+                        <td>Dwarf wall structural barriers &amp; 90-second automated PVC winch curtains[cite: 5].</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Extended Solar Drought</strong>[cite: 5]</td>
+                        <td><span style="color: #F87171; font-weight: 600;">High</span>[cite: 5]</td>
+                        <td>Exhaust steam jacket co-generation coupled with BESS reserve battery buffers[cite: 5].</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Pathogenic Sump Leaks</strong>[cite: 5]</td>
+                        <td><span style="color: #EF4444; font-weight: 700;">Critical</span>[cite: 5]</td>
+                        <td>2% physical concrete floor slopes, isolating drainage sumps, &amp; inline UV sterilization[cite: 5].</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- SECTION 6 -->
+    <section id="section-6" class="section-block">
+        <div class="section-header">
+            <div class="section-number">06</div>
+            <h2 class="section-title">Salient Figures &amp; Financials</h2>
+        </div>
+
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <span class="meta-label">Total Capital Required</span>
+                <span class="metric-value">ZAR 3.10M</span>
+            </div>
+            <div class="metric-card">
+                <span class="meta-label">Target Payback Period</span>
+                <span class="metric-value">2.6 Years</span>
+            </div>
+            <div class="metric-card">
+                <span class="meta-label">Base Electricity Shield</span>
+                <span class="metric-value">R 1.80 / kWh</span>
+            </div>
+            <div class="metric-card">
+                <span class="meta-label">Year 5 Project EBITDA</span>
+                <span class="metric-value">ZAR 1.56M</span>
+            </div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.25rem;">
+            <div>
+                <h3 style="font-family: var(--font-heading); font-size: 1.1rem; margin-bottom: 0.75rem; color: var(--text-primary);">Consolidated Capital Ledger (CAPEX)</h3>
+                <div class="table-wrapper" style="margin-top: 0;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Component Allocation</th>
+                                <th>Target Value</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Poultry &amp; Swine Structural Shells[cite: 5]</td>
+                                <td>ZAR 1,220,000[cite: 5]</td>
+                            </tr>
+                            <tr>
+                                <td>30kW / 30kWh BESS &amp; Biogas Co-Gen[cite: 5]</td>
+                                <td>ZAR 1,070,000[cite: 5]</td>
+                            </tr>
+                            <tr>
+                                <td>Hydrology, Biosecurity &amp; AIoT System[cite: 5]</td>
+                                <td>ZAR 810,000[cite: 5]</td>
+                            </tr>
+                            <tr class="highlight-row">
+                                <td>TOTAL CAPEX ALLOCATION[cite: 5]</td>
+                                <td>ZAR 3,100,000[cite: 5]</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div>
+                <h3 style="font-family: var(--font-heading); font-size: 1.1rem; margin-bottom: 0.75rem; color: var(--text-primary);">5-Year EBITDA Forecast Growth</h3>
+                <div class="chart-container">
+                    <div class="chart-bar-group">
+                        <div class="chart-label">
+                            <span>Year 1</span>
+                            <span style="font-weight: 600; color: var(--text-primary);">ZAR 1.18M</span>
+                        </div>
+                        <div class="chart-bar-bg">
+                            <div class="chart-bar-fill" style="width: 75%;"></div>
+                        </div>
+                    </div>
+                    <div class="chart-bar-group">
+                        <div class="chart-label">
+                            <span>Year 2</span>
+                            <span style="font-weight: 600; color: var(--text-primary);">ZAR 1.28M</span>
+                        </div>
+                        <div class="chart-bar-bg">
+                            <div class="chart-bar-fill" style="width: 82%;"></div>
+                        </div>
+                    </div>
+                    <div class="chart-bar-group">
+                        <div class="chart-label">
+                            <span>Year 3</span>
+                            <span style="font-weight: 600; color: var(--text-primary);">ZAR 1.40M</span>
+                        </div>
+                        <div class="chart-bar-bg">
+                            <div class="chart-bar-fill" style="width: 89%;"></div>
+                        </div>
+                    </div>
+                    <div class="chart-bar-group">
+                        <div class="chart-label">
+                            <span>Year 5</span>
+                            <span style="font-weight: 600; color: var(--accent-green);">ZAR 1.56M</span>
+                        </div>
+                        <div class="chart-bar-bg">
+                            <div class="chart-bar-fill" style="width: 100%;"></div>
+                        </div>
+                    </div>
+                    <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 1rem;">
+                        *100% of tariff savings are funneled into an autonomous sinking fund to finance battery upgrades by Year 5[cite: 5].
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 7 & 8 -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.5rem;" class="section-block">
+        <section id="section-7">
+            <div class="section-header">
+                <div class="section-number">07</div>
+                <h2 class="section-title">Strategic Fit &amp; Impact</h2>
+            </div>
+            <div class="card" style="height: calc(100% - 52px);">
+                <div class="card-body">
+                    Aligned with South Africa's <strong>Just Energy Transition (JET)</strong> directives[cite: 5], the project delivers:
+                    <ul class="styled-list" style="margin-top: 0.5rem;">
+                        <li><strong>Green Skills Development:</strong> Technical training for local youth in bio-solar microgrid operations[cite: 5].</li>
+                        <li><strong>Inclusive Growth:</strong> Leadership programs tailored for local agriculture cooperatives[cite: 5].</li>
+                        <li><strong>Community Dividends:</strong> Direct benefits funneling into surrounding mining settlements[cite: 5].</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="section-8">
+            <div class="section-header">
+                <div class="section-number">08</div>
+                <h2 class="section-title">Capital Request</h2>
+            </div>
+            <div class="card" style="height: calc(100% - 52px); border-color: var(--accent-green);">
+                <div class="card-body">
+                    <p style="font-size: 1.05rem; color: var(--text-primary); margin-bottom: 1rem;">
+                        We are formally requesting a capital allocation / co-funding facility of:
+                    </p>
+                    <div style="font-family: var(--font-heading); font-size: 2.25rem; font-weight: 700; color: var(--accent-green); margin-bottom: 1rem;">
+                        ZAR 3,100,000
+                    </div>
+                    <p>This facility will execute Phase 1–3 infrastructure procurement, structural construction, microgrid integration, and final asset commissioning[cite: 5].</p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- SECTION 9 -->
+    <section id="section-9" class="section-block">
+        <div class="section-header">
+            <div class="section-number">09</div>
+            <h2 class="section-title">Roadmap &amp; Timeline</h2>
+        </div>
+        <div class="timeline-container">
+            <div class="timeline-step">
+                <div style="font-size: 0.75rem; color: var(--accent-green); font-weight: 700; text-transform: uppercase;">Phase 1: Months 1–3</div>
+                <div class="timeline-step-title">Civil &amp; Structural Works</div>
+                <ul class="styled-list">
+                    <li>Site excavation &amp; foundation laying[cite: 5].</li>
+                    <li>Structural steel framing installation[cite: 5].</li>
+                    <li>2% sloped concrete floor casting[cite: 5].</li>
+                </ul>
+            </div>
+            <div class="timeline-step">
+                <div style="font-size: 0.75rem; color: var(--accent-green); font-weight: 700; text-transform: uppercase;">Phase 2: Months 4–5</div>
+                <div class="timeline-step-title">Energy Integration</div>
+                <ul class="styled-list">
+                    <li>Rooftop solar PV array mounting[cite: 5].</li>
+                    <li>30kW/30kWh BESS microgrid setup[cite: 5].</li>
+                    <li>Biogas thermal steam pipe routing[cite: 5].</li>
+                </ul>
+            </div>
+            <div class="timeline-step">
+                <div style="font-size: 0.75rem; color: var(--accent-green); font-weight: 700; text-transform: uppercase;">Phase 3: Month 6</div>
+                <div class="timeline-step-title">Commissioning &amp; Launch</div>
+                <ul class="styled-list">
+                    <li>Deep chemical biosecurity wash[cite: 5].</li>
+                    <li>AIoT sensor array calibration[cite: 5].</li>
+                    <li>Initial livestock loading cycle[cite: 5].</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 10 -->
+    <section id="section-10" class="section-block">
+        <div class="section-header">
+            <div class="section-number">10</div>
+            <h2 class="section-title">References &amp; Frameworks</h2>
+        </div>
+        <div class="card">
+            <ul class="styled-list">
+                <li><strong>Lwandile Engineering Projects:</strong> <em>Bio-Thermal Food Sovereignty Asset Master Business Plan</em> (Kinross &amp; Secunda)[cite: 5].</li>
+                <li><strong>Prestige Cosmic Venture:</strong> <em>Off-Grid Agricultural Industrial Investment Framework</em>[cite: 5].</li>
+                <li><strong>National Just Energy Transition (JET) Framework:</strong> South Africa Green Economy Guidelines[cite: 5].</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- SECTION 11 -->
+    <section id="section-11" class="section-block">
+        <div class="section-header">
+            <div class="section-number">11</div>
+            <h2 class="section-title">Technical Glossary</h2>
+        </div>
+        <div class="glossary-grid">
+            <div class="glossary-item">
+                <div class="glossary-term">AIoT</div>
+                <div class="glossary-def">Artificial Intelligence of Things; combining AI analytics with IoT sensor networks for automated environmental control[cite: 5].</div>
+            </div>
+            <div class="glossary-item">
+                <div class="glossary-term">BESS</div>
+                <div class="glossary-def">Battery Energy Storage System; battery technology used to buffer solar generation and deliver baseline power[cite: 5].</div>
+            </div>
+            <div class="glossary-item">
+                <div class="glossary-term">Bio-Solar Engine</div>
+                <div class="glossary-def">A hybrid engine configuration combining solar PV with organic biomass anaerobic digestion for co-generation[cite: 5].</div>
+            </div>
+            <div class="glossary-item">
+                <div class="glossary-term">Co-Generation (CHP)</div>
+                <div class="glossary-def">Simultaneous production of electrical power and thermal energy (heat/steam) from a single fuel source[cite: 5].</div>
+            </div>
+            <div class="glossary-item">
+                <div class="glossary-term">JET Framework</div>
+                <div class="glossary-def">Just Energy Transition; national initiative focused on transitioning economic structures toward sustainable green industries[cite: 5].</div>
+            </div>
+            <div class="glossary-item">
+                <div class="glossary-term">Sinking Fund</div>
+                <div class="glossary-def">A dedicated reserve account accumulated through energy cost savings, reserved for equipment overhaul[cite: 5].</div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Lwandile Engineering Projects © 2026 | Proprietary Business Plan &amp; System Design</p>
+    </footer>
+
+</div>
+
+
+</body></html>
